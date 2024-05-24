@@ -60,6 +60,6 @@ const Sidebar = () => {
                 Toggle Theme</button>
         </div>
     )
-}
+} // code
 
 export default Sidebar
